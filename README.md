@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=220&section=header&text=Welcome👋%20I'm%20swachieve-01%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=220&section=header&text=Welcome👋%20I'm%20swachieve-01%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
