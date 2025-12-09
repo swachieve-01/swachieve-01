@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=1E90FF&height=220&section=header&text=Welcome👋%20I'm%20swachieve-01%20😊&fontColor=87CEEB&fontSize=25&&fontAlignY=38&animation=fadeIn)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
 **swachieve-01/swachieve-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
